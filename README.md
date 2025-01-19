@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Saumya!
 
-Welcome to my GitHub! I'm an intern at **Sri Lanka Ports Authority (SLPA)**, diving into IoT and technology. I’m passionate about coding and building innovative solutions to solve real-world problems. 🌍✨
+Welcome to my GitHub! I'm a passionate individual currently working on enhancing my skills and knowledge in technology and innovation. With a background in **Information Technology**, I am dedicated to exploring creative and practical solutions. I thrive on learning and personal growth, focusing on new challenges that allow me to develop both professionally and personally. 🌍✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaumyaSL&color=blueviolet&style=flat-square)
 
@@ -8,9 +8,9 @@ Welcome to my GitHub! I'm an intern at **Sri Lanka Ports Authority (SLPA)**, div
 
 ### 🚀 About Me
 
-- 💼 **Intern** at **Sri Lanka Ports Authority (SLPA)**
-- 🧠 **Exploring** IoT, **Arduino**, and the world of smart technologies
-- 🌱 Continuously learning and working on **exciting projects** every day
+- 💼 **Former Intern at Sri Lanka Ports Authority (SLPA)**
+- 🧠 ** Passionate about IoT, Arduino, and smart technologies** 
+- 🌱 **Committed to learning and exploring new challenges every day** 
 
 ---
 
@@ -36,6 +36,8 @@ Feel free to reach out to me for collaborations, feedback, or just a chat! 🤝
 
 - **Email**: [saumyapiumi7@gmail.com](mailto:saumyapiumi7@gmail.com)
 - **LinkedIn**: [Saumya Piumi](https://www.linkedin.com/in/saumya-piumi-977ab7291/)
+- **Behance**: [Saumya Herath](https://www.behance.net/saumyaherath)
+
 
 ---
 
