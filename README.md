@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate individual currently working on enhancing
 ### 🚀 About Me
 
 - 💼 **Former Intern at Sri Lanka Ports Authority (SLPA)**
-- 🧠 ** Passionate about IoT, Arduino, and smart technologies** 
+- 🧠 **Passionate about IoT, Arduino, and smart technologies** 
 - 🌱 **Committed to learning and exploring new challenges every day** 
 
 ---
