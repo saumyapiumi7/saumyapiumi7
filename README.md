@@ -21,15 +21,6 @@ Welcome to my GitHub! I'm a passionate individual currently working on enhancing
 
 ---
 
-### 🎉 Featured Projects
-
-| Project | Description |
-| ------- | ----------- |
-| [**Smart Letter Box Notification System**](https://github.com/SaumyaSL/Smart-Letter-Box) | An IoT project that notifies residents about incoming letters efficiently. 🌟 |
-| [**EDDS**](https://github.com/SaumyaSL/EDDS) | A Document Management System for SLPA, designed to streamline record-keeping. 🚀 |
-
----
-
 ### 📫 Let's Connect!
 
 Feel free to reach out to me for collaborations, feedback, or just a chat! 🤝
