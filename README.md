@@ -31,5 +31,3 @@ Feel free to reach out to me for collaborations, feedback, or just a chat! 🤝
 
 
 ---
-
-Thanks for stopping by! 🎉 Feel free to check out my repositories and follow my journey as I continue building and learning. 🌱
