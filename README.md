@@ -35,8 +35,6 @@ Welcome to my GitHub! I'm a passionate individual currently working on enhancing
 Feel free to reach out to me for collaborations, feedback, or just a chat! 🤝
 
 - **Email**: [saumyapiumi7@gmail.com](mailto:saumyapiumi7@gmail.com)
-- **LinkedIn**: [Saumya Piumi](https://www.linkedin.com/in/saumya-piumi-977ab7291/)
-- **Behance**: [Saumya Herath](https://www.behance.net/saumyaherath)
 - **LinkTree**: [Saumya Herath](https://linktr.ee/Saumya_Herath)
 
 
