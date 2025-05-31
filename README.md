@@ -8,16 +8,25 @@ Welcome to my GitHub! I'm a passionate individual currently working on enhancing
 
 ### 🚀 About Me
 
-- 💼 **Former Intern at Sri Lanka Ports Authority (SLPA)**
-- 🧠 **Passionate about IoT, Arduino, and smart technologies** 
-- 🌱 **Committed to learning and exploring new challenges every day** 
+- 💼 **Former IT Intern at Sri Lanka Ports Authority (SLPA)**, gaining practical experience in IT projects  
+- 💻 Skilled in **Frontend Development** with experience in **HTML, CSS, JavaScript**, and frameworks like **Angular**  
+- 🎨 Passionate about **UI/UX design**, creating user-friendly and visually appealing interfaces  
+- 🧪 Interested in **Quality Assurance (QA)**, ensuring software reliability and performance through testing  
+- 🧠 Enthusiastic about **IoT, Arduino, and smart technologies**  
+- 🌱 Committed to continuous learning and exploring new tools to solve real-world problems  
+- 🤝 Enjoy collaborating on team projects and contributing to open-source communities  
+- 🌍 Motivated to build innovative, efficient, and user-centric tech solutions  
 
 ---
 
 ### 🛠️ My Skills
 
-- **Languages**: Python, JavaScript, HTML, PHP, CSS, C++
-- **Tools & Platforms**: Arduino, Git, GitHub, Jira, Visual Studio Code
+- **Frontend Development:** HTML, CSS, JavaScript, Angular & etc
+- **UI/UX Design:** User-friendly interfaces, responsive design, wireframing  
+- **Quality Assurance (QA):** Manual testing, test case creation, bug reporting  
+- **IoT & Embedded Systems:** Arduino, sensors, smart devices  
+- **Tools & Platforms:** Git, VS Code, Blynk, Google Workspace  
+
 
 ---
 
@@ -28,6 +37,7 @@ Feel free to reach out to me for collaborations, feedback, or just a chat! 🤝
 - **Email**: [saumyapiumi7@gmail.com](mailto:saumyapiumi7@gmail.com)
 - **LinkedIn**: [Saumya Piumi](https://www.linkedin.com/in/saumya-piumi-977ab7291/)
 - **Behance**: [Saumya Herath](https://www.behance.net/saumyaherath)
+- **LinkTree**: [Saumya Herath](https://linktr.ee/Saumya_Herath)
 
 
 ---
